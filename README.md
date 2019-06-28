@@ -1,6 +1,10 @@
 '''
 ****************************************************************
-*	Name: "Optimal path study on Gym FrozenLake-v0 environment"
+*	Title: "Optimal path study on Gym FrozenLake-v0 environment"
+
+*	Category: Machine Learning
+
+*	Author: Ryan Mokarian
 ****************************************************************
     Description
     In this project, FrozenLake-v0 environment from Gym OpenAI is utilized.
